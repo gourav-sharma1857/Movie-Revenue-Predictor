@@ -2,7 +2,7 @@
 
 A machine learning pipeline that predicts a movie's worldwide box office revenue from budget, cast, franchise history, and release strategy — plus a self-contained web app that runs the trained model entirely in the browser, no backend required.
 
-**[Live demo →](#)** *(add your GitHub Pages URL here)*
+**[Live demo →](#)** *[(add your GitHub Pages URL here)](https://gourav-sharma1857.github.io/Movie-Revenue-Predictor/)*
 
 ---
 
